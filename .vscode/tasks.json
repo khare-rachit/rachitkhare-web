@@ -45,13 +45,13 @@
     {
       "label": "Git Pull",
       "type": "shell",
-      "command": "git pull origin main"
+      "command": "git pull origin dev"
     },
 
     {
       "label": "Git Push",
       "type": "shell",
-      "command": "git push origin main"
+      "command": "git push origin dev"
     },
 
     {
