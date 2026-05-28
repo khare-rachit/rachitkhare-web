@@ -17,7 +17,7 @@ export default function Home() {
         </p>
 
         <p className="mt-2 text-neutral-500 text-sm">
-          Contact: rachit@rachitkhare.com
+          Contact: info@rachitkhare.com
         </p>
       </div>
     </main>

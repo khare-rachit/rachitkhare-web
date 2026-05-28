@@ -1,0 +1,49 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+
+  "files.autoSave": "afterDelay",
+
+  "js/ts.updateImportsOnFileMove.enabled": "always",
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "tailwindCSS.emmetCompletions": true,
+
+  "terminal.integrated.defaultProfile.osx": "zsh",
+
+  "git.enableSmartCommit": true,
+
+  "workbench.startupEditor": "none",
+
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false
+}
